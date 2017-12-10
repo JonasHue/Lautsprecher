@@ -1,0 +1,53 @@
+JonHue
+
+1
+----------------------
+Loudspeaker parameters:
+
+Fs  = 115.54 Hz
+Re  = 7.98 ohms[dc]
+Le  = 226.63 uH
+L2  = 491.82 uH
+R2  = 13.51 ohms
+Qt  = 0.95
+Qes = 1.27
+Qms = 3.77
+Mms = 12.37 grams
+Rms = 2.527804 kg/s
+Cms = 0.000156 m/N
+Vas = 4.49 liters
+Sd= 143.14 cm^2
+Bl  = 7.741270 Tm
+ETA = 0.55 %
+Lp(2.83V/1m) = 89.50 dB
+
+Added Mass Method:
+Added mass = 21.31 grams
+Diameter= 13.50 cm
+
+
+
+2
+------------------
+Loudspeaker parameters:
+
+Fs  = 117.79 Hz
+Re  = 7.60 ohms[dc]
+Le  = 210.78 uH
+L2  = 494.30 uH
+R2  = 13.09 ohms
+Qt  = 1.14
+Qes = 1.55
+Qms = 4.29
+Mms = 11.47 grams
+Rms = 2.256727 kg/s
+Cms = 0.000159 m/N
+Vas = 4.58 liters
+Sd= 143.14 cm^2
+Bl  = 6.877475 Tm
+ETA = 0.53 %
+Lp(2.83V/1m) = 89.55 dB
+
+Added Mass Method:
+Added mass = 21.45 grams
+Diameter= 13.50 cm

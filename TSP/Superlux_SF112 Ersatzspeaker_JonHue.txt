@@ -1,0 +1,47 @@
+JonHue
+
+Chassis: Superlux SF112 Ersatzspeaker (Neodym 12")
+Alter: unbekannt - gebraucht
+
+
+gemessen am: 
+24.08.2016
+
+Masse: Hifi-Selbstbau, auf +/- 0,05g genau
+
+Chassis liegend eingespannt.
+
+Interface: Roland Edirol UA-25EX
+
+Referenzwiderstand: 101,5 Ohm, 20W
+
+ARTA:
+Estimate TSP by LSE minimalization: YES
+Estimate voice coil resistance Re: YES
+Estimate lossy inductor model: YES
+
+-------------------------------------------------------
+
+
+Loudspeaker parameters:
+
+Fs  = 42.34 Hz
+Re  = 2.90 ohms[dc]
+Le  = 280.98 uH
+L2  = 381.69 uH
+R2  = 11.64 ohms
+Qt  = 0.19
+Qes = 0.19
+Qms = 4.79
+Mms = 92.60 grams
+Rms = 4.272848 kg/s
+Cms = 0.000154 m/N
+Vas = 62.76 liters
+Sd= 539.13 cm^2
+Bl  = 17.389101 Tm
+ETA = 1.93 %
+Lp(2.83V/1m) = 99.36 dB
+
+Added Mass Method:
+Added mass = 58.31 grams
+Diameter= 26.20 cm

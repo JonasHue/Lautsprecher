@@ -1,0 +1,44 @@
+JonHue
+
+Chassis: Monarch SPH-165 PA
+Alter: unbekannt - gebraucht
+
+
+gemessen am: 
+24.08.2016
+
+Chassis liegend eingespannt.
+
+Interface: Roland Edirol UA-25EX
+
+Referenzwiderstand: 101,5 Ohm, 20W
+
+ARTA:
+Estimate TSP by LSE minimalization: YES
+Estimate voice coil resistance Re: YES
+Estimate lossy inductor model: YES
+
+-------------------------------------------------------
+
+Loudspeaker parameters:
+
+Fs  = 49.47 Hz
+Re  = 6.09 ohms[dc]
+Le  = 312.88 uH
+L2  = 452.50 uH
+R2  = 11.16 ohms
+Qt  = 0.40
+Qes = 0.42
+Qms = 7.88
+Mms = 17.60 grams
+Rms = 0.703536 kg/s
+Cms = 0.000590 m/N
+Vas = 15.51 liters
+Sd= 136.85 cm^2
+Bl  = 8.930832 Tm
+ETA = 0.43 %
+Lp(2.83V/1m) = 89.63 dB
+
+Added Mass Method:
+Added mass = 16.00 grams
+Diameter= 13.20 cm

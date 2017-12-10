@@ -1,0 +1,43 @@
+JonHue
+
+Chassis: Elecrovoice EVS-12K (TT aus EV ZLX-12P)
+Alter: unbekannt - gebraucht
+
+gemessen am: 
+24.08.2016
+
+Chassis liegend eingespannt.
+
+Interface: Roland Edirol UA-25EX
+
+Referenzwiderstand: 101,5 Ohm, 20W
+
+ARTA:
+Estimate TSP by LSE minimalization: YES
+Estimate voice coil resistance Re: YES
+Estimate lossy inductor model: YES
+
+-------------------------------------------------------
+
+Loudspeaker parameters:
+
+Fs  = 52.80 Hz
+Re  = 5.95 ohms[dc]
+Le  = 473.32 uH
+L2  = 760.70 uH
+R2  = 17.31 ohms
+Qt  = 0.59
+Qes = 0.64
+Qms = 8.05
+Mms = 52.58 grams
+Rms = 2.138969 kg/s
+Cms = 0.000174 m/N
+Vas = 77.94 liters
+Sd= 564.10 cm^2
+Bl  = 12.665865 Tm
+ETA = 1.69 %
+Lp(2.83V/1m) = 95.67 dB
+
+Added Mass Method:
+Added mass = 32.00 grams
+Diameter= 26.80 cm

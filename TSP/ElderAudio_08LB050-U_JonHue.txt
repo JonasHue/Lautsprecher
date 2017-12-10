@@ -1,0 +1,46 @@
+JonHue
+
+Chassis: ElderAudio 08LB050-U  (t.box PA108)
+Alter: unbekannt - gebraucht
+
+
+gemessen am: 
+24.08.2016
+
+Chassis liegend eingespannt.
+
+Interface: Roland Edirol UA-25EX
+
+Referenzwiderstand: 101,5 Ohm, 20W
+
+ARTA:
+Estimate TSP by LSE minimalization: YES
+Estimate voice coil resistance Re: YES
+Estimate lossy inductor model: YES
+
+-------------------------------------------------------
+
+
+
+Loudspeaker parameters:
+
+Fs  = 68.95 Hz
+Re  = 5.72 ohms[dc]
+Le  = 333.69 uH
+L2  = 435.97 uH
+R2  = 12.46 ohms
+Qt  = 0.52
+Qes = 0.59
+Qms = 4.58
+Mms = 19.25 grams
+Rms = 1.880197 kg/s
+Cms = 0.000277 m/N
+Vas = 19.14 liters
+Sd= 221.67 cm^2
+Bl  = 9.184349 Tm
+ETA = 1.07 %
+Lp(2.83V/1m) = 93.84 dB
+
+Added Mass Method:
+Added mass = 16.00 grams
+Diameter= 16.80 cm

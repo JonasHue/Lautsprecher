@@ -1,0 +1,46 @@
+JonHue
+
+Chassis: Cerwin-Vega XL-10D
+Alter: unbekannt - gebraucht
+
+Schwingspulen in Reihe!
+
+
+gemessen am: 
+24.08.2016
+
+Chassis liegend eingespannt.
+
+Interface: Roland Edirol UA-25EX
+
+Referenzwiderstand: 101,5 Ohm, 20W
+
+ARTA:
+Estimate TSP by LSE minimalization: YES
+Estimate voice coil resistance Re: YES
+Estimate lossy inductor model: YES
+
+-------------------------------------------------------
+
+Loudspeaker parameters:
+
+Fs  = 27.06 Hz
+Re  = 6.02 ohms[dc]
+Le  = 967.61 uH
+L2  = 2396.09 uH
+R2  = 45.85 ohms
+Qt  = 0.17
+Qes = 0.17
+Qms = 3.85
+Mms = 56.91 grams
+Rms = 1.839921 kg/s
+Cms = 0.000608 m/N
+Vas = 108.41 liters
+Sd= 356.33 cm^2
+Bl  = 15.583315 Tm
+ETA = 0.86 %
+Lp(2.83V/1m) = 92.69 dB
+
+Added Mass Method:
+Added mass = 32.00 grams
+Diameter= 21.30 cm

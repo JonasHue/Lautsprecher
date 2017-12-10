@@ -11,10 +11,10 @@ TSP-BEREICH:
 
 Dateinamen wie folgt:
 
-Hersteller_Modell_Username_Datum.txt
+Hersteller_Modell_Username.txt
 
 Beispiel:
-  B&C_12NDL76_JonHue_101217.txt
+  B&C_12NDL76_JonHue.txt
 
 
 In der Kopfzeile bitte verwendetes Material usw. bitte kurz auflisten.

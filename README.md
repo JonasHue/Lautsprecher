@@ -10,6 +10,7 @@ TSP-BEREICH:
 ---------------
 
 Dateinamen wie folgt:
+
 Hersteller_Modell_Username_Datum.txt
 
 Beispiel:
@@ -18,6 +19,7 @@ B&C_12NDL76_JonHue_101217.txt
 
 In der Kopfzeile bitte verwendetes Material usw. bitte kurz auflisten.
 Beispiel:
+
 JonHue
 Chassis: Cerwin-Vega XL-10D
 Alter: unbekannt - gebraucht
@@ -33,5 +35,9 @@ Estimate voice coil resistance Re: YES
 Estimate lossy inductor model: YES
 
 
+WinISD-BEREICH:
+------------------
+Dateien bitte einfach fertig für WinISD hochladen.
+Dateinamen wie oben.
 
 Und nun viel Spaß ;)

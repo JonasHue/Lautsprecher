@@ -21,19 +21,20 @@ In der Kopfzeile bitte verwendetes Material usw. bitte kurz auflisten.
 Beispiel:
 
 JonHue
-Chassis: Cerwin-Vega XL-10D
-Alter: unbekannt - gebraucht
-Schwingspulen in Reihe!
-gemessen am: 
-24.08.2016
-Chassis liegend eingespannt.
-Interface: Roland Edirol UA-25EX
-Referenzwiderstand: 101,5 Ohm, 20W
-ARTA:
-Estimate TSP by LSE minimalization: YES
-Estimate voice coil resistance Re: YES
-Estimate lossy inductor model: YES
 
+Chassis: Cerwin-Vega XL-10D
+
+Alter: unbekannt - gebraucht
+
+Schwingspulen in Reihe!
+
+gemessen am: 24.08.2016
+
+Chassis liegend eingespannt.
+
+Interface: Roland Edirol UA-25EX
+
+Referenzwiderstand: 101,5 Ohm, 20W
 
 WinISD-BEREICH:
 ------------------

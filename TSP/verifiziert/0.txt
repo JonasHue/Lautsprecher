@@ -1,0 +1,1 @@
+TSP-Daten, die (zumindest ähnlich) von mindestens zwei Usern unabhängig voneinander gemessen wurden.
